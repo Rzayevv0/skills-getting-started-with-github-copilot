@@ -142,3 +142,34 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+/* Katılımcı bölümü için yeni stiller */
+.participants-section {
+  margin-top: 12px;
+  padding: 10px;
+  background-color: #eef4fa;
+  border-radius: 4px;
+  border: 1px solid #c5d6e7;
+}
+
+.participants-section strong {
+  color: #1a237e;
+  font-size: 15px;
+}
+
+.participants-list {
+  margin: 8px 0 0 18px;
+  padding-left: 0;
+  list-style-type: disc;
+  color: #333;
+  font-size: 15px;
+}
+
+.no-participants {
+  background-color: #f8f9fa;
+  color: #888;
+  border-style: dashed;
+  text-align: left;
+  font-style: italic;
+  padding-left: 10px;
+}
